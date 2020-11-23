@@ -1,0 +1,2 @@
+fileA.fq	AAG	ACG
+fileA.fq	GGG	TTT
